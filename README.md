@@ -1,2 +1,2 @@
-# Exerc-cios-Kotlin
+# Exercicios-Kotlin
 Exercícios para praticar Kotlin
